@@ -1,0 +1,6 @@
+data,produto,categoria,valor,regiao
+2024-01-01,Notebook,Eletrônicos,3500,Sudeste
+2024-01-02,Mouse,Periféricos,80,Sul
+2024-01-03,Teclado,Periféricos,150,Sudeste
+2024-01-04,Monitor,Eletrônicos,1200,Nordeste
+2024-01-05,Notebook,Eletrônicos,3600,Sudeste
